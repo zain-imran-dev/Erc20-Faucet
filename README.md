@@ -1,7 +1,8 @@
 # ERC20 Faucet Project
 
 A decentralized ERC20 token faucet built with Hardhat, Solidity, and Next.js. This project allows users to claim test tokens from a faucet contract and includes a modern web interface for interaction.
-<img width="983" height="1062" alt="image" src="https://github.com/user-attachments/assets/13bfee9c-59d4-48bf-8a98-a8329aa48236" />
+<img width="750" height="834" alt="image" src="https://github.com/user-attachments/assets/16f1455c-61f0-4221-82d2-3632fba8a4f6" />
+
 
 ## 🚀 Features
 
